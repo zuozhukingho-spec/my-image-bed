@@ -1,0 +1,7 @@
+.ds_store
+thumbs.db
+node_modules/
+.env
+*.log
+*.tmp
+temp/
